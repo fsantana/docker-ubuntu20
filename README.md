@@ -1,4 +1,4 @@
-#Docker image with php7.3, php8.0 and nodejs 14#
+#Docker image with nginx, php 7.3 -> 8.2 and nodejs 14#
 
 
 Build image local
